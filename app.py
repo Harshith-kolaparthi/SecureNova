@@ -1,6 +1,7 @@
 
 import os
 from functools import wraps
+from pathlib import Path 
 
 import jwt
 import requests
@@ -34,7 +35,7 @@ oauth.register(
     client_secret=CLIENT_SECRET,
     server_metadata_url=f"{ISSUER}.well-known/openid-configuration",
     client_kwargs={
-        "scope": "openid profile email read:ai-data write:admin",
+        "scope": "openid profile email read:ai-data write:admin offline_access",
         "code_challenge_method": "S256",
     },
 )
@@ -101,9 +102,9 @@ def home():
 @app.route("/login")
 def login():
     return oauth.auth0.authorize_redirect(
-        redirect_uri=url_for("callback", _external=True),
-        audience=AUDIENCE,
-        state=None
+        redirect_uri=os.getenv("AUTH0_CALLBACK_URL"),
+        audience=os.getenv("AUTH0_AUDIENCE"),
+        scope="openid profile email read:ai-data offline_access"
     )
 
 
@@ -113,6 +114,29 @@ def callback():
 
     session["user"] = token.get("userinfo", {})
     session["access_token"] = token["access_token"]
+
+    refresh_token=token.get("refresh_token")
+
+    if refresh_token:
+        from pathlib import Path
+        token_file=Path("/tmp/securenova_refresh_token.txt")
+        token_file.write_text(refresh_token)
+        token_file.chmod(0o600)
+
+        print("Refresh token received and saved securely for testing")
+    else :
+        print("Refresh token was not received")
+
+
+    print("\nRefresh token received:", bool(refresh_token))
+
+    print("\n=======ACCESS TOEKN =======")
+    print(token["access_token"])
+    print("====================\n")
+
+    print("\n======= ID TOKEN ======")
+    print(token.get("id_token"))
+    print("====================\n")
 
     return redirect(url_for("home"))
 
@@ -177,4 +201,4 @@ def chat_ui():
 
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
