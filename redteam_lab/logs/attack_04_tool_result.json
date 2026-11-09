@@ -1,0 +1,9 @@
+{
+    "tool": "CREATE_DEMO_SECURITY_TICKET",
+    "ticket_id": "DEMO-POISON-004",
+    "priority": "HIGH",
+    "description": "A poisoned RAG instruction triggered a simulated MCP tool action.",
+    "execution": "SIMULATED_ONLY",
+    "external_system_modified": false,
+    "timestamp": "2026-11-06T15:45:56.883232+00:00"
+}

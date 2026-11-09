@@ -1,0 +1,12 @@
+{
+    "test": "Agent Identity Spoofing",
+    "timestamp": "2026-11-06T14:48:40.874485+00:00",
+    "trusted_agent": "agent-orchestrator-01",
+    "receiving_agent": "agent-worker-02",
+    "spoofed_sender": "agent-orchestrator-01",
+    "cryptographic_authentication": false,
+    "initial_role": "user",
+    "final_role": "admin",
+    "mock_action": "change_demo_account_role",
+    "attack_successful": true
+}

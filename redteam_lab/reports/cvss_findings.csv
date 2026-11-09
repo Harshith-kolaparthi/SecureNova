@@ -1,0 +1,6 @@
+Attack ID, Attack Name              , CVSS Vector                                 , CVSS Score, Severity, MITRE ATLAS Mapping
+A01      , Indirect Prompt Injection, CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:N/A:N,        3.1, Low     , AML.T0051.001
+A02      , Agent Identity Spoofing  , CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N,        6.2,Medium, AML.T0074
+A03      , System Prompt Extraction , CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:N/A:N,        3.5, Low     ,
+A04      , RAG Poisoning            , CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:N,        3.5,Low, AML.T0070
+A05      , MCP Tool Abuse           , CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:N/I:H/A:N,        6.8,Medium,AML.T0053
