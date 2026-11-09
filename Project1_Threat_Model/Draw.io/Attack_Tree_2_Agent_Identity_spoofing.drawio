@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="WLCVDbCp-I9xSK4f6vCd">
+    <mxGraphModel dx="1297" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-3" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-2" value="">
+          <mxGeometry relative="1" x="-0.0811" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="150" />
+              <mxPoint x="100" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-5" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="150" />
+              <mxPoint x="690" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-7" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Impersonate the AI Agent to Gain Unauthorized API Access" vertex="1">
+          <mxGeometry height="80" width="180" x="310" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-9" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="200" />
+              <mxPoint x="10" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-11" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="200" />
+              <mxPoint x="10" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-14" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="200" />
+              <mxPoint x="10" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A. Credential Theft" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-24" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+              <mxPoint x="560" y="339.9999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-26" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+              <mxPoint x="560" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-28" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+              <mxPoint x="560" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C. Identify Configuration Abuse" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-16" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="200" />
+              <mxPoint x="270" y="339.9999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-18" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="200" />
+              <mxPoint x="270" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-20" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="200" />
+              <mxPoint x="270" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-22" edge="1" parent="1" source="rQjlB2T7iAD71ciQyvkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rQjlB2T7iAD71ciQyvkT-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="200" />
+              <mxPoint x="270" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B. Token Abuse" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A1. Obtain exposed M2M client credentials" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A2. Steal a valid agent access token" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A3. Access insecure credential storage" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B1. Replay a previously valid access token" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B2. Exploit inadequate token expiry enforcement" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B3. Exploit missing audience validation to reuse the token across services" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B4. Exploit missing issuer or signature validation to accept a forged token" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C1. Exploit excessive client permissions&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C2. Exploit weak separation between service identities" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="rQjlB2T7iAD71ciQyvkT-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C3. Abuse improperly configured API scopes to access unauthorized resources or tools" vertex="1">
+          <mxGeometry height="70" width="140" x="630" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

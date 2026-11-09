@@ -1,0 +1,173 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="OfGU14E7cU7VG_cnASc_">
+    <mxGraphModel dx="1253" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iD4D037nys32ypx-OuUl-3" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="150" />
+              <mxPoint x="130" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-5" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="150" />
+              <mxPoint x="710" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-7" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Manipulate AI Agent Behaviour Through RAG Poisoning" vertex="1">
+          <mxGeometry height="70" width="160" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-9" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-13" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-15" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-17" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A. Malicious Document Injection" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-27" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="210" />
+              <mxPoint x="580" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-29" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="210" />
+              <mxPoint x="580" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-31" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-30" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="210" />
+              <mxPoint x="580" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-33" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="210" />
+              <mxPoint x="580" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C. Retrieval Agent Manipulation" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-19" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="210.0000000000001" />
+              <mxPoint x="290" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-21" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="210.0000000000001" />
+              <mxPoint x="290" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-23" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="210" />
+              <mxPoint x="290" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-25" edge="1" parent="1" source="iD4D037nys32ypx-OuUl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="iD4D037nys32ypx-OuUl-24" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="210" />
+              <mxPoint x="290" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B. Vector Database Manipulation" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A1. Identify a document ingestion source" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A2. Introduce malicious or misleading content" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A3. Ensure the malicious content is injected into the RAG Pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="A4. Have the content indexed and stored in the vector database." vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B1. Exploit excessive write permissions to update or insert malicious chunks" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B2. Modify existing indexed chunks" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B3. Alter document metadata or provenance" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="B4. Cause manipulated chunks to be retrieved for relevant user queries" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C1. Influence retrieval results to rank poisoned chunks higher" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C2. Insert misleading or adversarial instructions into retrieved context" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="c3. Cause the agent to treat retrieved content as trusted instructions" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="iD4D037nys32ypx-OuUl-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="C4. Trigger an unauthorized or harmful response / action" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
